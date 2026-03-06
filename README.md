@@ -1,9 +1,10 @@
-AWS Trade Compliance ETL Pipeline
+# AWS Trade Compliance ETL Pipeline
 
-Python-based data engineering pipeline simulating a trade compliance data lake with:
+This project simulates a production-style data engineering pipeline for processing trade compliance data.
 
-• Raw and processed S3-style zones
-• Schema and business rule validation
-• Incremental file processing
-• Partitioned Parquet storage
-• Logging and pipeline metadata tracking
+Features:
+- Raw and processed data lake zones
+- Incremental ingestion
+- Schema and business rule validation
+- Partitioned Parquet storage
+- Logging and metadata tracking
