@@ -1,0 +1,5 @@
+trade_id,product,country,import_value,date
+1,Semiconductor,China,500000,2024-01-10
+2,Pharmaceutical,Germany,200000,2024-01-12
+3,Steel,India,300000,2024-01-15
+4,Oil,Saudi Arabia,800000,2024-01-18
